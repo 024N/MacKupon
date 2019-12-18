@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "230507864652",
+    "firebase_url": "https://battery-a53b5.firebaseio.com",
+    "project_id": "battery-a53b5",
+    "storage_bucket": "battery-a53b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230507864652:android:4593eeeea4f71a80",
+        "android_client_info": {
+          "package_name": "oz.mac.kupon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230507864652-3ru2hmt4b0vabkraem6uobc4oqk28vto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oz.mac.kupon",
+            "certificate_hash": "af10cbe1b01026124766fcbc791308e1abc7e4d4"
+          }
+        },
+        {
+          "client_id": "230507864652-0cd50p1p4dnaudkc661pl8o1dqd90vru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oz.mac.kupon",
+            "certificate_hash": "c2fdc29732c91d822a3e6ccf8d1e77f04ecd2e8b"
+          }
+        },
+        {
+          "client_id": "230507864652-ikvps9qgebgl8asev7m1ibgk6fm7v51u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt05UrzcYhnHTAydn-VUVe1fmRZaakmvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230507864652-ikvps9qgebgl8asev7m1ibgk6fm7v51u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maç Kupon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="loading">LOADING...</string>
+    <string name="mac_kupon">MAÇ KUPON</string>
+</resources>
